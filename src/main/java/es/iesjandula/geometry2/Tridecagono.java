@@ -8,7 +8,7 @@ package es.iesjandula.geometry2;
  * @author Miguel Ríos
  *
  */
-public class Tridecágono implements IPolygon
+public class Tridecagono implements IPolygon
 {
 	/** Attribute - Radio */
 	private double radio;
@@ -21,7 +21,7 @@ public class Tridecágono implements IPolygon
 	 * 
 	 * @param radio with the radio of the circle
 	 */
-	public Tridecágono(double radio)
+	public Tridecagono(double radio)
 	{
 		this.radio = radio ;
 	}
