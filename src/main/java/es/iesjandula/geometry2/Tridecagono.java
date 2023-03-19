@@ -1,4 +1,4 @@
-package es.iesjandula.geometry;
+package es.iesjandula.geometry2;
 
 /**
  * 
