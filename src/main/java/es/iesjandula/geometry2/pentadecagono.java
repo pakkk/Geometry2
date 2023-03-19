@@ -1,9 +1,9 @@
 package es.iesjandula.geometry2;
 
-public class pentadecágono implements IPolygon{
+public class pentadecagono implements IPolygon{
 	double longitud;
 	double apotema;
-	public pentadecágono(double longitud,double apotema) {
+	public pentadecagono(double longitud,double apotema) {
 		this.longitud=longitud;
 		this.apotema=apotema;
 	}
