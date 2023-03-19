@@ -1,11 +1,11 @@
-package es.iesjandula.geometry;
+package es.iesjandula.geometry2;
 
 /**
  * 
  * This class implements the circle properties (sides number, perimeter and area)
  * 
  * 
- * @author Juan Sutil
+ * @author Juan Sutil Mesa
  *
  */
 
