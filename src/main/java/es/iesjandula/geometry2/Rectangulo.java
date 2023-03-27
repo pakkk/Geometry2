@@ -6,7 +6,7 @@ package es.iesjandula.geometry2;
  * 
  * 
  *   
- * @author Alejandro Cazalla
+ * @author Alejandro Cazalla 
  *
  */
 public class Rectangulo implements IPolygon

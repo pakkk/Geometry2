@@ -11,19 +11,18 @@ package es.iesjandula.geometry2;
 public class Tridecagono implements IPolygon
 {
 	/** Attribute - Radio */
-	private double radio;
 	double perimetro;
-	double longitud_lado = 5;
+	double longitud_lado;
 	double apotema = 2;
 	double area;
+        
 	/**
 	 * Constructor of the class
-	 * 
-	 * @param radio with the radio of the circle
+         * @param longitud_lado
 	 */
-	public Tridecagono(double radio)
+	public Tridecagono(double longitud_lado)
 	{
-		this.radio = radio ;
+		this.longitud_lado = longitud_lado ;
 	}
 	
 	/**
@@ -52,5 +51,4 @@ public class Tridecagono implements IPolygon
 		area = (13 * longitud_lado * apotema) / 2;
 		return area;
 	}
-
 }
