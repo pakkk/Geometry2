@@ -10,6 +10,7 @@ package es.iesjandula.geometry2;
  */
 public class Circulo implements IPolygon
 {
+	//Circulo comment add
 	/** Attribute - Radio */
 	private double radio ;
 	
